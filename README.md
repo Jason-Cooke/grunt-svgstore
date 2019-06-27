@@ -141,7 +141,7 @@ The default template used looks like:
 </html>
 ```
 
-Since `0.3.5` you can customise this by passing in a `string` that will be compiled via `handlebars` and used as a tempalte. If it is a function this function is expected to take one parameter and return a string. 
+Since `0.3.5` you can customise this by passing in a `string` that will be compiled via `handlebars` and used as a template. If it is a function this function is expected to take one parameter and return a string. 
 
 The data passed to the template looks like this:
 ```js
